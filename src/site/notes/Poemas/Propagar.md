@@ -2,6 +2,8 @@
 {"tags":["poema"],"date":"2023-02-05","dg-publish":true,"permalink":"/poemas/propagar/","dgPassFrontmatter":true,"created":"2023-02-05"}
 ---
 
+![propagar.jpg|500](/img/user/Images/propagar.jpg)
+
 A Vida é um propagar do primeiro som, que reverbera através das eras.
 
 Meus passos são também os passos daqueles que me antecederam.
