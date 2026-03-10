@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2019-09-02","dg-publish":true,"permalink":"/poemas/dissolvido/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:50.000-03:00","updated":"2026-03-10T18:40:34.269-03:00"}
+{"tags":["poema"],"date":"2019-09-02","dg-publish":true,"permalink":"/poemas/dissolvido/","dgPassFrontmatter":true,"created":"2019-09-02"}
 ---
 
 Ao me olhar de fora

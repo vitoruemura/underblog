@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2021-09-21","dg-publish":true,"permalink":"/poemas/expressao-do-vazio/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:52.000-03:00","updated":"2026-03-10T18:41:56.188-03:00"}
+{"tags":["poema"],"date":"2021-09-21","dg-publish":true,"permalink":"/poemas/expressao-do-vazio/","dgPassFrontmatter":true,"created":"2021-09-21"}
 ---
 
 Se há um vazio em meu peito que se espalha por todo meu ser,

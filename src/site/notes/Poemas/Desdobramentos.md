@@ -1,5 +1,5 @@
 ---
-{"date":"2024-10-30T07:25","updated":"2026-03-10T18:40:30.595-03:00","tags":["poema"],"keywords":["mudança","busca interior"],"dg-publish":true,"permalink":"/poemas/desdobramentos/","dgPassFrontmatter":true,"created":"2024-10-30T07:25:12.000-03:00"}
+{"date":"2024-10-30T07:25","updated":"2024-10-30T07:35","tags":["poema"],"keywords":["mudança","busca interior"],"dg-publish":true,"permalink":"/poemas/desdobramentos/","dgPassFrontmatter":true,"created":"2024-10-30T07:25"}
 ---
 
 A vida é um eterno desdobrar

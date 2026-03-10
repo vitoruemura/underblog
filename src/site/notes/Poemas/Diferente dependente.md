@@ -1,5 +1,5 @@
 ---
-{"date":"2024-10-09T20:41","updated":"2026-03-10T18:40:33.225-03:00","tags":["poema"],"dg-publish":true,"permalink":"/poemas/diferente-dependente/","dgPassFrontmatter":true,"created":"2024-10-09T20:41:28.000-03:00"}
+{"date":"2024-10-09T20:41","updated":"2024-10-09T20:52","tags":["poema"],"dg-publish":true,"permalink":"/poemas/diferente-dependente/","dgPassFrontmatter":true,"created":"2024-10-09T20:41"}
 ---
 
 Me pensar diferente

@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2022-08-31","dg-publish":true,"permalink":"/poemas/caixa-vazia/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:47.000-03:00","updated":"2026-03-10T18:31:22.749-03:00"}
+{"tags":["poema"],"date":"2022-08-31","dg-publish":true,"permalink":"/poemas/caixa-vazia/","dgPassFrontmatter":true,"created":"2022-08-31"}
 ---
 
 Me é preciso uma caixa vazia

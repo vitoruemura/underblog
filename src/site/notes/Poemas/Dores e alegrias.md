@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2021-12-20","dg-publish":true,"permalink":"/poemas/dores-e-alegrias/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:50.000-03:00","updated":"2026-03-10T18:40:35.494-03:00"}
+{"tags":["poema"],"date":"2021-12-20","dg-publish":true,"permalink":"/poemas/dores-e-alegrias/","dgPassFrontmatter":true,"created":"2021-12-20"}
 ---
 
 Já não se é mais

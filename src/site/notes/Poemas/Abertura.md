@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-04T18:23","updated":"2026-03-10T18:10:23.229-03:00","tags":["poema"],"keywords":["abertura","auto-conhecimento","amadurecimento","poesia"],"dg-publish":true,"permalink":"/poemas/abertura/","dgPassFrontmatter":true,"created":"2024-09-04T18:23:55.000-03:00"}
+{"date":"2024-09-04T18:23","updated":"2024-09-23T15:13","tags":["poema"],"keywords":["abertura","auto-conhecimento","amadurecimento","poesia"],"dg-publish":true,"permalink":"/poemas/abertura/","dgPassFrontmatter":true,"created":"2024-09-04T18:23"}
 ---
 
 Preciso de mais abertura

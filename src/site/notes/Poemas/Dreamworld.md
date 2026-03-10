@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-15T15:53","updated":"2026-03-10T18:40:36.846-03:00","tags":["poema"],"keywords":["sonho","auto-conhecimento","reflexão","poesia","busca interior"],"dg-publish":true,"permalink":"/poemas/dreamworld/","dgPassFrontmatter":true,"created":"2024-09-15T15:53:13.000-03:00"}
+{"date":"2024-09-15T15:53","updated":"2024-09-15T19:22","tags":["poema"],"keywords":["sonho","auto-conhecimento","reflexão","poesia","busca interior"],"dg-publish":true,"permalink":"/poemas/dreamworld/","dgPassFrontmatter":true,"created":"2024-09-15T15:53"}
 ---
 
 I live in this dreamworld

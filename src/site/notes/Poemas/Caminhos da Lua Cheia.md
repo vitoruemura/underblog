@@ -1,5 +1,5 @@
 ---
-{"date":"2025-03-12T08:08","updated":"2026-03-10T18:30:26.181-03:00","tags":["poema"],"keywords":["lua","caminho","poesia","sentir"],"dg-publish":true,"permalink":"/poemas/caminhos-da-lua-cheia/","dgPassFrontmatter":true,"created":"2025-03-12T08:08:51.764-03:00"}
+{"date":"2025-03-12T08:08","updated":"2025-03-12T08:09","tags":["poema"],"keywords":["lua","caminho","poesia","sentir"],"dg-publish":true,"permalink":"/poemas/caminhos-da-lua-cheia/","dgPassFrontmatter":true,"created":"2025-03-12T08:08"}
 ---
 
 Quando o sentir se expande,

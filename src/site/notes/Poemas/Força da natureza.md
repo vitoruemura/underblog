@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2022-05-03","dg-publish":true,"permalink":"/poemas/forca-da-natureza/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:52.000-03:00","updated":"2026-03-10T18:42:00.540-03:00"}
+{"tags":["poema"],"date":"2022-05-03","dg-publish":true,"permalink":"/poemas/forca-da-natureza/","dgPassFrontmatter":true,"created":"2022-05-03"}
 ---
 
 Carrego em mim a força da Natureza

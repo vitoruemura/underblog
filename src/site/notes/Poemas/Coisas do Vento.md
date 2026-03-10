@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-29T19:12","updated":"2026-03-10T18:30:32.650-03:00","tags":["poema"],"keywords":["vento"],"dg-publish":true,"permalink":"/poemas/coisas-do-vento/","dgPassFrontmatter":true,"created":"2024-09-29T19:12:31.000-03:00"}
+{"date":"2024-09-29T19:12","updated":"2024-10-01T09:00","tags":["poema"],"keywords":["vento"],"dg-publish":true,"permalink":"/poemas/coisas-do-vento/","dgPassFrontmatter":true,"created":"2024-09-29T19:12"}
 ---
 
 Coisas que o Vento me traz

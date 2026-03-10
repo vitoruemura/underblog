@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2019-08-21","dg-publish":true,"permalink":"/poemas/chama-divina/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:48.000-03:00","updated":"2026-03-10T18:31:09.952-03:00"}
+{"tags":["poema"],"date":"2019-08-21","dg-publish":true,"permalink":"/poemas/chama-divina/","dgPassFrontmatter":true,"created":"2019-08-21"}
 ---
 
 Sou a chama divina

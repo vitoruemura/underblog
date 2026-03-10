@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2021-08-13","dg-publish":true,"permalink":"/poemas/aqui-nao-sou/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:46.000-03:00","updated":"2026-03-10T18:19:23.207-03:00"}
+{"tags":["poema"],"date":"2021-08-13","dg-publish":true,"permalink":"/poemas/aqui-nao-sou/","dgPassFrontmatter":true,"created":"2021-08-13"}
 ---
 
 Aqui não há nada mais

@@ -1,5 +1,5 @@
 ---
-{"date":"2024-06-09T21:53","updated":"2026-03-10T18:40:27.232-03:00","tags":["poema"],"dg-publish":true,"permalink":"/poemas/de-dentro/","dgPassFrontmatter":true,"created":"2024-06-09T21:53:53.000-03:00"}
+{"date":"2024-06-09T21:53","updated":"2025-06-23T19:27","tags":["poema"],"dg-publish":true,"permalink":"/poemas/de-dentro/","dgPassFrontmatter":true,"created":"2024-06-09T21:53"}
 ---
 
 Tudo que se passa dentro de mim
