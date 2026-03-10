@@ -1,5 +1,5 @@
 ---
-{"tags":["poema"],"date":"2021-02-16","dg-publish":true,"permalink":"/poemas/abro-a-porta-e-a-janela/","dgPassFrontmatter":true}
+{"tags":["poema"],"date":"2021-02-16","dg-publish":true,"permalink":"/poemas/abro-a-porta-e-a-janela/","dgPassFrontmatter":true,"created":"2023-10-08T14:39:45.000-03:00","updated":"2026-03-10T18:18:53.410-03:00"}
 ---
 
 Quando a janela da alma está aberta
