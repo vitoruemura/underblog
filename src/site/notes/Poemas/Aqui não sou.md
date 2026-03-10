@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2021-08-13","dg-publish":true,"permalink":"/poemas/aqui-nao-sou/","dgPassFrontmatter":true}
 ---
 
-
-# Aqui não sou
 Aqui não há nada mais
 
 daquilo que nunca houve antes

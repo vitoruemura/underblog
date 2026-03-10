@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2021-02-28","dg-publish":true,"permalink":"/poemas/apenas-sinto/","dgPassFrontmatter":true}
 ---
 
-
-# Apenas sinto
 Apenas sinto
 
 E o sentir tem sido intenso

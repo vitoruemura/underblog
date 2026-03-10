@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2021-03-04","dg-publish":true,"permalink":"/poemas/a-vida-que-nao-deu-certo/","dgPassFrontmatter":true}
 ---
 
-
-# A vida que não deu certo
 A vida que não deu certo
 
 é aquela que aparece nos versos

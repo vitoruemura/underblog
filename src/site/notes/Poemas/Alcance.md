@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2022-10-05","dg-publish":true,"permalink":"/poemas/alcance/","dgPassFrontmatter":true}
 ---
 
-
-# Alcance
 Até onde alcança o seu olhar,
 
 até as montanhas

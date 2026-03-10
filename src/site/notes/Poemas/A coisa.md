@@ -2,9 +2,6 @@
 {"tags":["poema"],"date":"2021-07-28","dg-publish":true,"permalink":"/poemas/a-coisa/","dgPassFrontmatter":true}
 ---
 
-
-
-# A coisa
 As vezes me vem a coisa, e eu escrevo
 
 e outras vezes a coisa não vem

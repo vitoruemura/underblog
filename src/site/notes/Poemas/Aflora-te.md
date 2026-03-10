@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2022-08-30","dg-publish":true,"permalink":"/poemas/aflora-te/","dgPassFrontmatter":true}
 ---
 
-
-# Aflora-te
 Aflora-te
 
 Deixa vir

@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2021-04-13","dg-publish":true,"permalink":"/poemas/aqui/","dgPassFrontmatter":true}
 ---
 
-
-# Aqui
 Sento-me aqui
 
 como já me sentei antes em muitos outros lugares

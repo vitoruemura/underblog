@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2019-08-10","dg-publish":true,"permalink":"/poemas/a-coisa-toda/","dgPassFrontmatter":true}
 ---
 
-
-# A coisa toda
 Considero-me parte da coisa toda
 
 Na verdade,

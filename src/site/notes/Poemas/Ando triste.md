@@ -2,8 +2,6 @@
 {"tags":["poema"],"date":"2021-02-19","dg-publish":true,"permalink":"/poemas/ando-triste/","dgPassFrontmatter":true}
 ---
 
-
-# Ando triste
 Se ando triste
 
 Me contenta a ideia de que pelo menos ando
