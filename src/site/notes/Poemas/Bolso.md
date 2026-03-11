@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2022-12-26","dg-publish":true,"permalink":"/poemas/bolso/","dgPassFrontmatter":true,"created":"2022-12-26"}
+{"tags":["poema","desenho"],"date":"2022-12-26","dg-publish":true,"permalink":"/poemas/bolso/","dgPassFrontmatter":true,"created":"2022-12-26"}
 ---
+
+![bolso.png|400](/img/user/Images/bolso.png)
 
 No bolso guardei coisas importantes
 
