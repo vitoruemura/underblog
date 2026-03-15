@@ -1,5 +1,5 @@
 ---
-{"date":"2024-07-02T10:16","updated":"2024-07-06T22:08","tags":["poema"],"keywords":["sonho","decisão","auto-conhecimento","busca interior","dúvidas"],"dg-publish":true,"permalink":"/poemas/vida-de-sonhos/","dgPassFrontmatter":true,"created":"2024-07-02T10:16"}
+{"date":"2024-07-02T10:16","updated":"2024-07-06T22:08","tags":["poema","reflexao"],"keywords":["sonho","decisão","auto-conhecimento","busca interior","dúvidas"],"dg-publish":true,"permalink":"/poemas/vida-de-sonhos/","dgPassFrontmatter":true,"created":"2024-07-02T10:16"}
 ---
 
 Tem algo escondido por trás das escolhas da gente,

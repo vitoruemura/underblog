@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-01T17:22","updated":"2024-09-23T15:09","tags":["poema"],"keywords":["auto-conhecimento","busca interior","transitório","mudança"],"dg-publish":true,"permalink":"/poemas/transitorio/","dgPassFrontmatter":true,"created":"2024-09-01T17:22"}
+{"date":"2024-09-01T17:22","updated":"2024-09-23T15:09","tags":["poema","reflexao"],"keywords":["auto-conhecimento","busca interior","transitório","mudança"],"dg-publish":true,"permalink":"/poemas/transitorio/","dgPassFrontmatter":true,"created":"2024-09-01T17:22"}
 ---
 
 Tudo parece transitório
