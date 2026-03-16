@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/indice-geral/","dgPassFrontmatter":true}
 ---
 
-| Poemas                                                                                                            | Data              | file.tags                                    |
+| Poemas                                                                                                            | Data              | Tags                                         |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
 | [[Reflexões/Nova televisão\|Nova televisão]]                                                                   | 15 March 2026     | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Dificuldade Para Conseguir as Coisas\|Dificuldade Para Conseguir as Coisas]]                       | 06 March 2026     | <ul><li>#reflexao</li></ul>                  |
