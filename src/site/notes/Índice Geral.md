@@ -78,8 +78,8 @@
 | [[Reflexões/Fanatismo\|Fanatismo]]                                                                             | 07 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Parte de tudo que me cerca\|Parte de tudo que me cerca]]                                           | 05 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Minha imagem\|Minha imagem]]                                                                       | 05 May 2024       | <ul><li>#reflexao</li></ul>                  |
-| [[Reflexões/Vontade sem muita vontade\|Vontade sem muita vontade]]                                             | 04 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Mundo padrão e o padrão de estar fora do padrão\|Mundo padrão e o padrão de estar fora do padrão]] | 04 May 2024       | <ul><li>#reflexao</li></ul>                  |
+| [[Reflexões/Vontade sem muita vontade\|Vontade sem muita vontade]]                                             | 04 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Sentar do meu lado e estranhamento\|Sentar do meu lado e estranhamento]]                           | 03 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Estereótipo e máscaras\|Estereótipo e máscaras]]                                                   | 21 April 2024     | <ul><li>#reflexao</li></ul>                  |
 | [[Poemas/Movimento intercalado dos pés\|Movimento intercalado dos pés]]                                        | 14 April 2024     | <ul><li>#poema</li><li>#reflexao</li></ul>   |
@@ -210,8 +210,8 @@
 | [[Reflexões/Variância\|Variância]]                                                                             | 19 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Poemas/Clima\|Clima]]                                                                                        | 14 May 2021       | <ul><li>#poema</li></ul>                     |
 | [[Reflexões/Ser notado\|Ser notado]]                                                                           | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
-| [[Reflexões/Reconhecimento\|Reconhecimento]]                                                                   | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Prosperidade\|Prosperidade]]                                                                       | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
+| [[Reflexões/Reconhecimento\|Reconhecimento]]                                                                   | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Natureza digital\|Natureza digital]]                                                               | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Felicidade compartilhada\|Felicidade compartilhada]]                                               | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Caridade ou marketing pessoal\|Caridade ou marketing pessoal]]                                     | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
