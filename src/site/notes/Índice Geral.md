@@ -209,8 +209,8 @@
 | [[Reflexões/Mercado da atenção\|Mercado da atenção]]                                                           | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Variância\|Variância]]                                                                             | 19 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Poemas/Clima\|Clima]]                                                                                        | 14 May 2021       | <ul><li>#poema</li></ul>                     |
-| [[Reflexões/Ser notado\|Ser notado]]                                                                           | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Reconhecimento\|Reconhecimento]]                                                                   | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
+| [[Reflexões/Ser notado\|Ser notado]]                                                                           | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Prosperidade\|Prosperidade]]                                                                       | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Natureza digital\|Natureza digital]]                                                               | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Felicidade compartilhada\|Felicidade compartilhada]]                                               | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
