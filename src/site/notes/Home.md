@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-home":true,"banner":"[distracted-trans2.png](/img/user/Images/distracted-trans2.png)","dg-pinned":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-![distracted-trans1.png](/img/user/Images/distracted-trans1.png)
+![distracted-trans2.png](/img/user/Images/distracted-trans2.png)
 
 # Em processo de transferência do Blog...
 
