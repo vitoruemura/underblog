@@ -2,7 +2,7 @@
 {"tags":["desenho"],"dg-publish":true,"date":"18/03/2026","updated":"22/03/2026","permalink":"/desenhos/xvii-the-star/","dgPassFrontmatter":true,"created":"18/03/2026"}
 ---
 
-Me matriculei em uma aula de xilogravura. Tenho que levar um desenho na próxima aula pra poder aprender a cavar a madeira e fazer o molde.
+ Me matriculei em uma aula de xilogravura. Tenho que levar um desenho na próxima aula pra poder aprender a cavar a madeira e fazer o molde.
 
 Fiquei pensando no que poderia ser e acabei decidindo tentar fazer umas cartinhas de tarot. A primeira que desenhei foi essa:
 
