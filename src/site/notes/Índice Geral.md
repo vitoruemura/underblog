@@ -78,8 +78,8 @@
 | [[Reflexões/Fanatismo\|Fanatismo]]                                                                             | 07 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Parte de tudo que me cerca\|Parte de tudo que me cerca]]                                           | 05 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Minha imagem\|Minha imagem]]                                                                       | 05 May 2024       | <ul><li>#reflexao</li></ul>                  |
-| [[Reflexões/Mundo padrão e o padrão de estar fora do padrão\|Mundo padrão e o padrão de estar fora do padrão]] | 04 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Vontade sem muita vontade\|Vontade sem muita vontade]]                                             | 04 May 2024       | <ul><li>#reflexao</li></ul>                  |
+| [[Reflexões/Mundo padrão e o padrão de estar fora do padrão\|Mundo padrão e o padrão de estar fora do padrão]] | 04 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Sentar do meu lado e estranhamento\|Sentar do meu lado e estranhamento]]                           | 03 May 2024       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Estereótipo e máscaras\|Estereótipo e máscaras]]                                                   | 21 April 2024     | <ul><li>#reflexao</li></ul>                  |
 | [[Poemas/Movimento intercalado dos pés\|Movimento intercalado dos pés]]                                        | 14 April 2024     | <ul><li>#poema</li><li>#reflexao</li></ul>   |
@@ -205,8 +205,8 @@
 | [[Poemas/Espelhos\|Espelhos]]                                                                                  | 04 June 2021      | <ul><li>#poema</li></ul>                     |
 | [[Poemas/Que não pode ser visto\|Que não pode ser visto]]                                                      | 28 May 2021       | <ul><li>#poema</li></ul>                     |
 | [[Reflexões/Símbolos da desigualdade\|Símbolos da desigualdade]]                                               | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
-| [[Reflexões/Minimo consumo\|Minimo consumo]]                                                                   | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Mercado da atenção\|Mercado da atenção]]                                                           | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
+| [[Reflexões/Minimo consumo\|Minimo consumo]]                                                                   | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Variância\|Variância]]                                                                             | 19 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Poemas/Clima\|Clima]]                                                                                        | 14 May 2021       | <ul><li>#poema</li></ul>                     |
 | [[Reflexões/Ser notado\|Ser notado]]                                                                           | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
