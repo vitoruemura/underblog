@@ -205,8 +205,8 @@
 | [[Poemas/Espelhos\|Espelhos]]                                                                                  | 04 June 2021      | <ul><li>#poema</li></ul>                     |
 | [[Poemas/Que não pode ser visto\|Que não pode ser visto]]                                                      | 28 May 2021       | <ul><li>#poema</li></ul>                     |
 | [[Reflexões/Símbolos da desigualdade\|Símbolos da desigualdade]]                                               | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
-| [[Reflexões/Mercado da atenção\|Mercado da atenção]]                                                           | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Minimo consumo\|Minimo consumo]]                                                                   | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
+| [[Reflexões/Mercado da atenção\|Mercado da atenção]]                                                           | 28 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Reflexões/Variância\|Variância]]                                                                             | 19 May 2021       | <ul><li>#reflexao</li></ul>                  |
 | [[Poemas/Clima\|Clima]]                                                                                        | 14 May 2021       | <ul><li>#poema</li></ul>                     |
 | [[Reflexões/Ser notado\|Ser notado]]                                                                           | 10 May 2021       | <ul><li>#reflexao</li></ul>                  |
