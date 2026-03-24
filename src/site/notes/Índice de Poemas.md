@@ -145,5 +145,8 @@
 | [[Poemas/Horizonte\|Horizonte]]                                                                   | 23 January 2015   |
 | [[Poemas/Bela flor\|Bela flor]]                                                                   | 23 January 2015   |
 | [[Poemas/Personagens secretas de um mundo invisível\|Personagens secretas de um mundo invisível]] | 16 December 2014  |
+| [[Poemas/O cataclisma de outra época\|O cataclisma de outra época]]                               | 06 November 2014  |
+| [[Poemas/Compassos\|Compassos]]                                                                   | 05 November 2014  |
+| [[Poemas/Mensagem na garrafa\|Mensagem na garrafa]]                                               | 09 June 2012      |
 
 { .block-language-dataview}
