@@ -2,6 +2,8 @@
 {"tags":["poema"],"date":"2019-08-09","dg-publish":true,"permalink":"/poemas/livro-do-cume/","dgPassFrontmatter":true,"created":"2019-08-09"}
 ---
 
+![cume.jpg](/img/user/Images/cume.jpg)
+
 Deixo aqui
 
 tudo que já não me serve

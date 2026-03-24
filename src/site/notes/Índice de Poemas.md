@@ -134,11 +134,11 @@
 | [[Poemas/Chama divina\|Chama divina]]                                                             | 21 August 2019    |
 | [[Poemas/Passatempo\|Passatempo]]                                                                 | 13 August 2019    |
 | [[Poemas/A coisa toda\|A coisa toda]]                                                             | 10 August 2019    |
-| [[Poemas/Livro do cume\|Livro do cume]]                                                           | 09 August 2019    |
 | [[Poemas/De verdade\|De verdade]]                                                                 | 09 August 2019    |
+| [[Poemas/Livro do cume\|Livro do cume]]                                                           | 09 August 2019    |
 | [[Poemas/Sumido\|Sumido]]                                                                         | 08 August 2019    |
 | [[Poemas/Corro\|Corro]]                                                                           | 07 August 2019    |
-| [[Labirinto\|Labirinto]]                                                                          | 19 July 2019      |
+| [[Poemas/Labirinto\|Labirinto]]                                                                   | 19 July 2019      |
 | [[Poemas/Busca\|Busca]]                                                                           | 19 September 2018 |
 | [[Poemas/Dança entre mundos\|Dança entre mundos]]                                                 | 13 February 2015  |
 | [[Poemas/Chave\|Chave]]                                                                           | 04 February 2015  |
