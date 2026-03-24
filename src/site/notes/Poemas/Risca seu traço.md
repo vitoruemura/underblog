@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2020-03-21","dg-publish":true,"permalink":"/poemas/risca-seu-traco/","dgPassFrontmatter":true,"created":"2020-03-21"}
+{"tags":["poema","desenho"],"date":"2020-03-21","dg-publish":true,"permalink":"/poemas/risca-seu-traco/","dgPassFrontmatter":true,"created":"2020-03-21"}
 ---
+
+![risca.png](/img/user/Images/risca.png)
 
 Segue um rumo que só quem dança sabe enxergar
 

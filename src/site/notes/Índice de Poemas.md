@@ -126,6 +126,7 @@
 | [[Poemas/Caminhante\|Caminhante]]                                                                 | 07 November 2020  |
 | [[Poemas/Bater de asas\|Bater de asas]]                                                           | 21 July 2020      |
 | [[Poemas/Sente que mudou\|Sente que mudou]]                                                       | 17 July 2020      |
+| [[Poemas/O feitiço da aranha e o tempo\|O feitiço da aranha e o tempo]]                           | 05 April 2020     |
 | [[Poemas/Enchevaziar\|Enchevaziar]]                                                               | 28 March 2020     |
 | [[Poemas/Risca seu traço\|Risca seu traço]]                                                       | 21 March 2020     |
 | [[Poemas/O elo\|O elo]]                                                                           | 08 October 2019   |

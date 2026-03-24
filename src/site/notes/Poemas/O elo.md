@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2019-10-08","dg-publish":true,"permalink":"/poemas/o-elo/","dgPassFrontmatter":true,"created":"2019-10-08"}
+{"tags":["poema","desenho"],"date":"2019-10-08","dg-publish":true,"permalink":"/poemas/o-elo/","dgPassFrontmatter":true,"created":"2019-10-08"}
 ---
+
+![elo.jpg|500](/img/user/Images/elo.jpg)
 
 Recebi um presente
 
