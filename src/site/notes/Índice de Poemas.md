@@ -109,8 +109,8 @@
 | [[Poemas/Couração\|Couração]]                                                                     | 22 February 2021  |
 | [[Poemas/Eu não sei\|Eu não sei]]                                                                 | 20 February 2021  |
 | [[Poemas/Ando triste\|Ando triste]]                                                               | 19 February 2021  |
-| [[Poemas/Abro a porta e a janela\|Abro a porta e a janela]]                                       | 16 February 2021  |
 | [[Poemas/Só consegui ser eu mesmo\|Só consegui ser eu mesmo]]                                     | 16 February 2021  |
+| [[Poemas/Abro a porta e a janela\|Abro a porta e a janela]]                                       | 16 February 2021  |
 | [[Poemas/Muita arte é preciso\|Muita arte é preciso]]                                             | 15 February 2021  |
 | [[Poemas/Desculas ao mar\|Desculas ao mar]]                                                       | 14 February 2021  |
 | [[Poemas/O manto da noite\|O manto da noite]]                                                     | 13 February 2021  |
@@ -135,8 +135,8 @@
 | [[Poemas/Chama divina\|Chama divina]]                                                             | 21 August 2019    |
 | [[Poemas/Passatempo\|Passatempo]]                                                                 | 13 August 2019    |
 | [[Poemas/A coisa toda\|A coisa toda]]                                                             | 10 August 2019    |
-| [[Poemas/De verdade\|De verdade]]                                                                 | 09 August 2019    |
 | [[Poemas/Livro do cume\|Livro do cume]]                                                           | 09 August 2019    |
+| [[Poemas/De verdade\|De verdade]]                                                                 | 09 August 2019    |
 | [[Poemas/Sumido\|Sumido]]                                                                         | 08 August 2019    |
 | [[Poemas/Corro\|Corro]]                                                                           | 07 August 2019    |
 | [[Poemas/Labirinto\|Labirinto]]                                                                   | 19 July 2019      |
