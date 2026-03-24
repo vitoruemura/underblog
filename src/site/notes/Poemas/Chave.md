@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2015-02-04","dg-publish":true,"permalink":"/poemas/chave/","dgPassFrontmatter":true,"created":"2015-02-04"}
+{"tags":["poema","desenho"],"date":"2015-02-04","dg-publish":true,"permalink":"/poemas/chave/","dgPassFrontmatter":true,"created":"2015-02-04"}
 ---
+
+![chave.png|500](/img/user/Images/chave.png)
 
 Uma chave para abrir
 

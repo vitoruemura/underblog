@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2015-02-13","dg-publish":true,"permalink":"/poemas/danca-entre-mundos/","dgPassFrontmatter":true,"created":"2015-02-13"}
+{"tags":["poema","desenho"],"date":"2015-02-13","dg-publish":true,"permalink":"/poemas/danca-entre-mundos/","dgPassFrontmatter":true,"created":"2015-02-13"}
 ---
+
+![dança entre mundos.png](/img/user/Images/dan%C3%A7a%20entre%20mundos.png)
 
 Uma dança entre mundos,
 

@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2015-02-02","dg-publish":true,"permalink":"/poemas/proprio-mundo-proprio/","dgPassFrontmatter":true,"created":"2015-02-02"}
+{"tags":["poema","desenho"],"date":"2015-02-02","dg-publish":true,"permalink":"/poemas/proprio-mundo-proprio/","dgPassFrontmatter":true,"created":"2015-02-02"}
 ---
+
+![corvo.png](/img/user/Images/corvo.png)
 
 Um toque e passo a existir
 
