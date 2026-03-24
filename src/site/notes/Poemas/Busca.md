@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2018-09-19","dg-publish":true,"permalink":"/poemas/busca/","dgPassFrontmatter":true,"created":"2018-09-19"}
+{"tags":["poema","desenho"],"date":"2018-09-19","dg-publish":true,"permalink":"/poemas/busca/","dgPassFrontmatter":true,"created":"2018-09-19"}
 ---
+
+![busca.png](/img/user/Images/busca.png)
 
 Me busquei dentro de mim
 
