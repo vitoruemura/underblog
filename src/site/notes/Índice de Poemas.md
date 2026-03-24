@@ -109,8 +109,8 @@
 | [[Poemas/Couração\|Couração]]                                                                     | 22 February 2021  |
 | [[Poemas/Eu não sei\|Eu não sei]]                                                                 | 20 February 2021  |
 | [[Poemas/Ando triste\|Ando triste]]                                                               | 19 February 2021  |
-| [[Poemas/Só consegui ser eu mesmo\|Só consegui ser eu mesmo]]                                     | 16 February 2021  |
 | [[Poemas/Abro a porta e a janela\|Abro a porta e a janela]]                                       | 16 February 2021  |
+| [[Poemas/Só consegui ser eu mesmo\|Só consegui ser eu mesmo]]                                     | 16 February 2021  |
 | [[Poemas/Muita arte é preciso\|Muita arte é preciso]]                                             | 15 February 2021  |
 | [[Poemas/Desculas ao mar\|Desculas ao mar]]                                                       | 14 February 2021  |
 | [[Poemas/O manto da noite\|O manto da noite]]                                                     | 13 February 2021  |
