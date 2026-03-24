@@ -17,7 +17,7 @@ Na minha opinião o segundo caso é mais preocupante... Acredito que estar perdi
 Me aconchego nas palavras de Bernardo Soares, que no Livro do Desassossego disse o seguinte:  
   
 
- > “E assim sou, fútil e sensível, capaz de impulsos violentos e absorventes, maus e bons, nobres e vis, mas nunca de um sentimento que subsista, nunca de um emoção que continue, e entre para a substância da alma. Tudo em mim é a tendência para ser a seguir outra coisa; uma impaciência da alma consigo mesma, como com uma criança inoportuna; um desassossego sempre crescente e sempre igual. Tudo me interessa e nada me prende.”
+ > “E assim sou, fútil e sensível, capaz de impulsos violentos e absorventes, maus e bons, nobres e vis, mas nunca de um sentimento que subsista, nunca de uma emoção que continue, e entre para a substância da alma. Tudo em mim é a tendência para ser a seguir outra coisa; uma impaciência da alma consigo mesma, como com uma criança inoportuna; um desassossego sempre crescente e sempre igual. Tudo me interessa e nada me prende.”
 
   
 Não sei se é bom ou se é ruim ser assim, não sei se existe essa coisa de bom ou ruim quando o assunto é esse. Acho que pode ser ruim caso eu me sinta mal em relação a esse assunto, o que de fato ocorre. Mas pode ser que eu me sinta mal em relação a isso pelo simples fato de eu ter sido criado em uma sociedade que vê isso como um problema, uma sociedade em que não ter um objetivo de vida claro e bem definido é tido como algo ruim. Então, por estar fora do contexto social "padrão" eu acabo me sentindo mal por achar que estou ou sou "errado".
@@ -30,4 +30,4 @@ Me preocupar com o que quero fazer é deixar de sentir o que quero fazer.
   
 Pode ser que essa coisa toda do objetivo de vida, da carreira, destino, propósito... Talvez isso tudo seja apenas uma ilusão com a qual a mente me tira do momento presente, porque ao me preocupar com isso, ao pensar sobre isso, já não estou mais em mim mesmo, já não estou mais sentindo o que está se passando, já estou desligado de minhas sensações. Ao focar nessas questões deixo de sentir o caminho que a vida coloca em minha frente, pois fico cego para ele. Se penso que tenho que encontrar um propósito, é porque não estou vivendo o propósito e acredito que deva haver um propósito. Se simplesmente vivo, e acredito que seja esse o propósito (simplesmente viver), não há o que procurar e nem o que ser encontrado.  
 
-Deixo o [link](chave) para um poema que escrevi faz um tempo e que exprime um pouco das ideias aqui presentes.
+Deixo o [[Poemas/Chave\|link]] para um poema que escrevi faz um tempo e que exprime um pouco das ideias aqui presentes.
