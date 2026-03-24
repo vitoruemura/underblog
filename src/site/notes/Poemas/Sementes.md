@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2021-12-23","dg-publish":true,"permalink":"/poemas/sementes/","dgPassFrontmatter":true,"created":"2021-12-23"}
+{"tags":["poema","desenho"],"date":"2021-12-23","dg-publish":true,"permalink":"/poemas/sementes/","dgPassFrontmatter":true,"created":"2021-12-23"}
 ---
+
+![sementes.png|500](/img/user/Images/sementes.png)
 
 Minha mente fantasiosa
 

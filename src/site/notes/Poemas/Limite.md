@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2021-12-08","dg-publish":true,"permalink":"/poemas/limite/","dgPassFrontmatter":true,"created":"2021-12-08"}
+{"tags":["poema","desenho"],"date":"2021-12-08","dg-publish":true,"permalink":"/poemas/limite/","dgPassFrontmatter":true,"created":"2021-12-08"}
 ---
+
+![limite 1.png](/img/user/Images/limite%201.png)
 
 Há um limite que me limita
 
@@ -31,3 +33,6 @@ E ao fim
 meu limite sou eu mesmo
 
 me limitando
+
+![limite 2.png](/img/user/Images/limite%202.png)
+![limite 3.png](/img/user/Images/limite%203.png)
