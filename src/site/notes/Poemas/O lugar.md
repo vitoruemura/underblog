@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2021-01-27","dg-publish":true,"permalink":"/poemas/o-lugar/","dgPassFrontmatter":true,"created":"2021-01-27"}
+{"tags":["poema","desenho"],"date":"2021-01-27","dg-publish":true,"permalink":"/poemas/o-lugar/","dgPassFrontmatter":true,"created":"2021-01-27"}
 ---
+
+![o lugar.png](/img/user/Images/o%20lugar.png)
 
 Não sei que tanto tem nesse lugar
 

@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2021-01-26","dg-publish":true,"permalink":"/poemas/labirinto-de-espelhos/","dgPassFrontmatter":true,"created":"2021-01-26"}
+{"tags":["poema","desenho"],"date":"2021-01-26","dg-publish":true,"permalink":"/poemas/labirinto-de-espelhos/","dgPassFrontmatter":true,"created":"2021-01-26"}
 ---
+
+![lab de espelhos.jpg|600](/img/user/Images/lab%20de%20espelhos.jpg)
 
 Parece um labirinto de espelhos
 

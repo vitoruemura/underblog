@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2021-01-22","dg-publish":true,"permalink":"/poemas/embolado/","dgPassFrontmatter":true,"created":"2021-01-22"}
+{"tags":["poema","desenho"],"date":"2021-01-22","dg-publish":true,"permalink":"/poemas/embolado/","dgPassFrontmatter":true,"created":"2021-01-22"}
 ---
+
+![embolado.png](/img/user/Images/embolado.png)
 
 É um embaraço
 
