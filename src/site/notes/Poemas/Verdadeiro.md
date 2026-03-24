@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2021-11-17","dg-publish":true,"permalink":"/poemas/verdadeiro/","dgPassFrontmatter":true,"created":"2021-11-17"}
+{"tags":["poema","desenho"],"date":"2021-11-17","dg-publish":true,"permalink":"/poemas/verdadeiro/","dgPassFrontmatter":true,"created":"2021-11-17"}
 ---
+
+![verdadeiro.png|500](/img/user/Images/verdadeiro.png)
 
 Tenho procurado minha verdade,
 
