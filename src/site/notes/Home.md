@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"banner":"[distracted-trans2.png](/img/user/Images/distracted-trans2.png)","dg-pinned":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![distracted-trans2.png](/img/user/Images/distracted-trans2.png)
