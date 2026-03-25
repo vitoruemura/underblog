@@ -13,5 +13,7 @@ Sei que provavelmente não vai ficar 100% da maneira como eu gostaria, e sei tam
 Por enquanto o que tenho para mostrar é isso :D
 
 
-**[[Poemas/Todos os poemas\|Todos os poemas]]**
-**[[Desenhos/Todos os desenhos\|Todos os desenhos]]**
+> [!Tip] Publicações
+> [[Poemas/Todos os poemas\|Todos os poemas]]
+> 
+> [[Desenhos/Todos os desenhos\|Todos os desenhos]]
