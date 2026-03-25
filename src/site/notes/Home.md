@@ -13,4 +13,4 @@ Sei que provavelmente não vai ficar 100% da maneira como eu gostaria, e sei tam
 Por enquanto o que tenho para mostrar é isso :D
 
 
-**[[Poemas/Índice de Poemas\|Índice de Poemas]]**
+**[[Poemas/Todos os poemas\|Todos os poemas]]**
