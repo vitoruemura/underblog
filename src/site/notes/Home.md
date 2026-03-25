@@ -11,3 +11,6 @@ Quero tirar o meu blog do Blogger, que pertence ao Google, e trazer para o Obsid
 Sei que provavelmente não vai ficar 100% da maneira como eu gostaria, e sei também que terei que aprender um monte de coisas pra poder customizar o blog, mas mesmo assim acredito que vale a pena a mudança. O próprio processo de fazer algo novo e ir fuçando até conseguir o que quero é uma coisa que me agrada bastante, é um desafio mental, um objetivo a ser alcançado.
 
 Por enquanto o que tenho para mostrar é isso :D
+
+
+**[[Poemas/Índice de Poemas\|Índice de Poemas]]**
