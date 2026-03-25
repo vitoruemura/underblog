@@ -17,3 +17,8 @@ Por enquanto o que tenho para mostrar é isso :D
 > [[Poemas/Todos os poemas\|Todos os poemas]]
 > 
 > [[Desenhos/Todos os desenhos\|Todos os desenhos]]
+
+> [!Info] Contatos
+> - www.vitoruemura.com
+> - vitoruemura@gmail.com
+> - [+55 11 997893658](https://wa.me/5511997893658)
