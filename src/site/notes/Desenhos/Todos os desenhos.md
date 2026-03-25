@@ -5,6 +5,7 @@
 | Publicações                                                                | Data              |
 | -------------------------------------------------------------------------- | ----------------- |
 | [[Desenhos/XVIII - The Star\|XVIII - The Star]]                         | 20 March 2026     |
+| [[Desenhos/Littleman\|Littleman]]                                       | 21 February 2026  |
 | [[Poemas/Parede sólida\|Parede sólida]]                                 | 06 February 2023  |
 | [[Poemas/Pôr do sol\|Pôr do sol]]                                       | 31 January 2023   |
 | [[Poemas/Escrevesenhando\|Escrevesenhando]]                             | 27 December 2022  |
