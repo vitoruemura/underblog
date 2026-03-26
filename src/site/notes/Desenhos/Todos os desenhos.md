@@ -11,6 +11,11 @@
 | [[Poemas/Escrevesenhando\|Escrevesenhando]]                             | 27 December 2022  |
 | [[Poemas/Bolso\|Bolso]]                                                 | 26 December 2022  |
 | [[Reflexões/O despertar\|O despertar]]                                  | 25 December 2022  |
+| [[Poemas/Desmoronamento\|Desmoronamento]]                               | 14 February 2022  |
+| [[Desenhos/Pensamentos naturais sketch\|Pensamentos naturais sketch]]   | 11 February 2022  |
+| [[Desenhos/Dia triste na fruteira\|Dia triste na fruteira]]             | 08 February 2022  |
+| [[Desenhos/Fada\|Fada]]                                                 | 07 February 2022  |
+| [[Desenhos/Staff of many paths\|Staff of many paths]]                   | 03 February 2022  |
 | [[Desenhos/Emotional gamer\|Emotional gamer]]                           | 25 January 2022   |
 | [[Desenhos/Círculo de proteção\|Círculo de proteção]]                   | 14 January 2022   |
 | [[Poemas/Vento\|Vento]]                                                 | 06 January 2022   |

@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2022-02-14","dg-publish":true,"permalink":"/poemas/desmoronamento/","dgPassFrontmatter":true,"created":"2022-02-14"}
+{"tags":["poema","desenho"],"date":"2022-02-14","dg-publish":true,"permalink":"/poemas/desmoronamento/","dgPassFrontmatter":true,"created":"2022-02-14"}
 ---
+
+![Desmoronamento.png](/img/user/Images/Desmoronamento.png)
 
 Ainda me reconstruo de meu último desmoronamento,
 
