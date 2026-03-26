@@ -53,6 +53,7 @@
 | [[Poemas/Fugir\|Fugir]]                                                                           | 13 June 2022      |
 | [[Poemas/Força da natureza\|Força da natureza]]                                                   | 03 May 2022       |
 | [[Poemas/Espírito da floresta das contemplações\|Espírito da floresta das contemplações]]         | 18 March 2022     |
+| [[Desenhos/Espírito da floresta das contemplações\|Espírito da floresta das contemplações]]       | 18 March 2022     |
 | [[Poemas/Suspiro\|Suspiro]]                                                                       | 09 March 2022     |
 | [[Poemas/Desfecho\|Desfecho]]                                                                     | 08 March 2022     |
 | [[Poemas/Não há em mim\|Não há em mim]]                                                           | 16 February 2022  |
