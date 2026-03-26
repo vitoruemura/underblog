@@ -11,9 +11,13 @@
 | [[Poemas/Escrevesenhando\|Escrevesenhando]]                             | 27 December 2022  |
 | [[Poemas/Bolso\|Bolso]]                                                 | 26 December 2022  |
 | [[Reflexões/O despertar\|O despertar]]                                  | 25 December 2022  |
+| [[Desenhos/Emotional gamer\|Emotional gamer]]                           | 25 January 2022   |
+| [[Desenhos/Círculo de proteção\|Círculo de proteção]]                   | 14 January 2022   |
+| [[Poemas/Vento\|Vento]]                                                 | 06 January 2022   |
+| [[Desenhos/Bruxinha\|Bruxinha]]                                         | 06 January 2022   |
 | [[Desenhos/Saudação lunar\|Saudação lunar]]                             | 30 December 2021  |
-| [[Poemas/Sementes\|Sementes]]                                           | 23 December 2021  |
 | [[Desenhos/Cesta da revolução\|Cesta da revolução]]                     | 23 December 2021  |
+| [[Poemas/Sementes\|Sementes]]                                           | 23 December 2021  |
 | [[Desenhos/Mesa radiônica\|Mesa radiônica]]                             | 21 December 2021  |
 | [[Desenhos/Pedra dimensional\|Pedra dimensional]]                       | 20 December 2021  |
 | [[Desenhos/Coruja\|Coruja]]                                             | 14 December 2021  |
@@ -23,8 +27,8 @@
 | [[Poemas/Ausente\|Ausente]]                                             | 24 November 2021  |
 | [[Desenhos/Dança cigana\|Dança cigana]]                                 | 21 November 2021  |
 | [[Desenhos/Fogo da transformação\|Fogo da transformação]]               | 19 November 2021  |
-| [[Poemas/Verdadeiro\|Verdadeiro]]                                       | 17 November 2021  |
 | [[Desenhos/Chakras\|Chakras]]                                           | 17 November 2021  |
+| [[Poemas/Verdadeiro\|Verdadeiro]]                                       | 17 November 2021  |
 | [[Poemas/Flores(ser)\|Flores(ser)]]                                     | 12 November 2021  |
 | [[Desenhos/Montanha encantada\|Montanha encantada]]                     | 10 November 2021  |
 | [[Desenhos/Elementos\|Elementos]]                                       | 04 November 2021  |

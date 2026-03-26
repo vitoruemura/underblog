@@ -1,6 +1,8 @@
 ---
-{"tags":["poema"],"date":"2022-01-06","dg-publish":true,"permalink":"/poemas/vento/","dgPassFrontmatter":true,"created":"2022-01-06"}
+{"tags":["poema","desenho"],"date":"2022-01-06","dg-publish":true,"permalink":"/poemas/vento/","dgPassFrontmatter":true,"created":"2022-01-06"}
 ---
+
+![Vento.png](/img/user/Images/Vento.png)
 
 Sou o vento que sopra nas matas
 
