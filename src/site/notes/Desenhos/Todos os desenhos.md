@@ -11,6 +11,27 @@
 | [[Poemas/Escrevesenhando\|Escrevesenhando]]                                                 | 27 December 2022  |
 | [[Poemas/Bolso\|Bolso]]                                                                     | 26 December 2022  |
 | [[Reflexões/O despertar\|O despertar]]                                                      | 25 December 2022  |
+| [[Desenhos/Ek Ong Kar\|Ek Ong Kar]]                                                         | 28 October 2022   |
+| [[Desenhos/Intuição\|Intuição]]                                                             | 27 October 2022   |
+| [[Desenhos/Máscara do eclipse\|Máscara do eclipse]]                                         | 26 October 2022   |
+| [[Desenhos/Baleia do eclipse\|Baleia do eclipse]]                                           | 25 October 2022   |
+| [[Desenhos/Conexão com a natureza\|Conexão com a natureza]]                                 | 22 October 2022   |
+| [[Desenhos/Serpente cósmica\|Serpente cósmica]]                                             | 21 October 2022   |
+| [[Desenhos/Kundalini awakening\|Kundalini awakening]]                                       | 20 October 2022   |
+| [[Desenhos/Fim de tarde\|Fim de tarde]]                                                     | 20 October 2022   |
+| [[Desenhos/Wahe guru\|Wahe guru]]                                                           | 19 October 2022   |
+| [[Desenhos/Mandala de flor\|Mandala de flor]]                                               | 17 October 2022   |
+| [[Desenhos/Símbolo de ação\|Símbolo de ação]]                                               | 16 October 2022   |
+| [[Desenhos/Antar Naad mudra para a lula cheia\|Antar Naad mudra para a lula cheia]]         | 15 October 2022   |
+| [[Desenhos/Iluminação\|Iluminação]]                                                         | 14 October 2022   |
+| [[Desenhos/Shelter for the night\|Shelter for the night]]                                   | 13 October 2022   |
+| [[Desenhos/Vôo da intuição\|Vôo da intuição]]                                               | 12 October 2022   |
+| [[Desenhos/Sun\|Sun]]                                                                       | 12 October 2022   |
+| [[Poemas/Alcance\|Alcance]]                                                                 | 05 October 2022   |
+| [[Poemas/O observar\|O observar]]                                                           | 04 October 2022   |
+| [[Desenhos/Guitarman\|Guitarman]]                                                           | 20 September 2022 |
+| [[Poemas/Aflora-te\|Aflora-te]]                                                             | 30 August 2022    |
+| [[Desenhos/Mushroom\|Mushroom]]                                                             | 03 June 2022      |
 | [[Desenhos/Daruma\|Daruma]]                                                                 | 25 May 2022       |
 | [[Desenhos/La matriarche\|La matriarche]]                                                   | 19 May 2022       |
 | [[Desenhos/Olíbano\|Olíbano]]                                                               | 17 May 2022       |
