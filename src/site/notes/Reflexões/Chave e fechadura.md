@@ -10,8 +10,8 @@ Não há utilidade em ter a chave sem ter o que abrir, e o mesmo ocorre no caso 
   
 As vezes a gente sabe muito bem o que quer, e encontra dificuldades em alcançar ou completar isso por não termos as habilidades, conhecimentos ou os recursos necessários para tal. E tem vezes que a gente sabe que tem um monte de habilidades e aspetos favoráveis, mas não encontramos uma maneira de aplica-los por não sabermos o que desejamos.  
   
-
-*devaneios*
+---
+## devaneio
 Na minha opinião o segundo caso é mais preocupante... Acredito que estar perdido em relação ao que desejo reflete uma desconexão comigo mesmo e minhas vontades. Muitas vezes me pego sem rumo, sem saber ao certo onde colocar minhas energias. Outras tantas vezes me vejo mudar de rumo constantemente, como se não conseguisse me manter de uma mesma forma por bastante tempo, como se meus interesses estivessem em constante mudança. E esse tem sido o pano de fundo da minha existência.
 
 Me aconchego nas palavras de Bernardo Soares, que no Livro do Desassossego disse o seguinte:  
