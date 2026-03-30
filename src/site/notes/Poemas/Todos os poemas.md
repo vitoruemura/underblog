@@ -108,6 +108,7 @@
 | [[Poemas/O que quero fazer\|O que quero fazer]]                                                   | 24 February 2021  |
 | [[Poemas/Rima lá em cima\|Rima lá em cima]]                                                       | 23 February 2021  |
 | [[Poemas/Couração\|Couração]]                                                                     | 22 February 2021  |
+| [[Reflexões/Como nascem os poemas\|Como nascem os poemas]]                                        | 21 February 2021  |
 | [[Poemas/Eu não sei\|Eu não sei]]                                                                 | 20 February 2021  |
 | [[Poemas/Ando triste\|Ando triste]]                                                               | 19 February 2021  |
 | [[Poemas/Só consegui ser eu mesmo\|Só consegui ser eu mesmo]]                                     | 16 February 2021  |
