@@ -87,5 +87,6 @@
 | [[Poemas/Bela flor\|Bela flor]]                                                             | 23 January 2015   |
 | [[Poemas/O cataclisma de outra época\|O cataclisma de outra época]]                         | 06 November 2014  |
 | [[Poemas/Compassos\|Compassos]]                                                             | 05 November 2014  |
+| [[Desenhos/Amigos da floresta\|Amigos da floresta]]                                         | \-                |
 
 { .block-language-dataview}
