@@ -5,6 +5,7 @@
 | Publicações                                                                                    | Data              |
 | ---------------------------------------------------------------------------------------------- | ----------------- |
 | [[Desenhos/XVIII - The Star\|XVIII - The Star]]                                             | 20 March 2026     |
+| [[Desenhos/Faces\|Faces]]                                                                   | 04 March 2026     |
 | [[Desenhos/Littleman\|Littleman]]                                                           | 21 February 2026  |
 | [[Desenhos/One eye\|One eye]]                                                               | 17 February 2026  |
 | [[Desenhos/Asa quebrada\|Asa quebrada]]                                                     | 16 February 2026  |
