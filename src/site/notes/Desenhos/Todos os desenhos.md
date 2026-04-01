@@ -15,6 +15,7 @@
 | [[Poemas/Escrevesenhando\|Escrevesenhando]]                                                 | 27 December 2022  |
 | [[Poemas/Bolso\|Bolso]]                                                                     | 26 December 2022  |
 | [[Reflexões/O despertar\|O despertar]]                                                      | 25 December 2022  |
+| [[Poemas/Cascas\|Cascas]]                                                                   | 17 November 2022  |
 | [[Desenhos/Janela da árvore\|Janela da árvore]]                                             | 06 November 2022  |
 | [[Desenhos/Ek Ong Kar\|Ek Ong Kar]]                                                         | 28 October 2022   |
 | [[Desenhos/Intuição\|Intuição]]                                                             | 27 October 2022   |
