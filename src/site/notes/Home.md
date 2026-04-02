@@ -13,11 +13,11 @@ Sei que provavelmente não vai ficar 100% da maneira como eu gostaria, e sei tam
 Por enquanto o que tenho para mostrar é isso :D
 
 > [!Tip] Publicações
-> [[Publicações/1. Todos os poemas\|1. Todos os poemas]]
+> [[1. Todos os poemas\|1. Todos os poemas]]
 > 
-> [[Publicações/2. Todos os desenhos\|2. Todos os desenhos]]
+> [[2. Todos os desenhos\|2. Todos os desenhos]]
 > 
-> [[Publicações/3. Todas as reflexões\|3. Todas as reflexões]]
+> [[3. Todas as reflexões\|3. Todas as reflexões]]
 
 > [!Info] Contatos
 > - www.vitoruemura.com
