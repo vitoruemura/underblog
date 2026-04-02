@@ -16,6 +16,8 @@ Por enquanto o que tenho para mostrar é isso :D
 > [[Publicações/Todos os poemas\|Todos os poemas]]
 > 
 > [[Publicações/Todos os desenhos\|Todos os desenhos]]
+> 
+> [[Publicações/Todas as reflexões\|Todas as reflexões]]
 
 > [!Info] Contatos
 > - www.vitoruemura.com
