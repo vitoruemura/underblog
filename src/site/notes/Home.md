@@ -71,6 +71,7 @@ Por enquanto o que tenho para mostrar é isso :D
 | [[Reflexões/O despertar\|O despertar]]                                                                 | 25 December 2022  | <ul><li>desenho</li><li>reflexao</li></ul> |
 | [[Publicações/Eu sou o pássaro\|Eu sou o pássaro]]                                                     | 17 November 2022  | <ul><li>poema</li><li>desenho</li></ul>    |
 | [[Publicações/Cascas\|Cascas]]                                                                         | 17 November 2022  | <ul><li>poema</li><li>desenho</li></ul>    |
+| [[Publicações/Amigos da floresta\|Amigos da floresta]]                                                 | 08 November 2022  | <ul><li>desenho</li><li>reflexao</li></ul> |
 | [[Publicações/Janela da árvore\|Janela da árvore]]                                                     | 06 November 2022  | <ul><li>desenho</li><li>reflexao</li></ul> |
 | [[Publicações/Ek Ong Kar\|Ek Ong Kar]]                                                                 | 28 October 2022   | <ul><li>desenho</li></ul>                  |
 | [[Publicações/Intuição\|Intuição]]                                                                     | 27 October 2022   | <ul><li>desenho</li></ul>                  |
@@ -227,6 +228,5 @@ Por enquanto o que tenho para mostrar é isso :D
 | [[Publicações/O cataclisma de outra época\|O cataclisma de outra época]]                               | 06 November 2014  | <ul><li>desenho</li><li>poema</li></ul>    |
 | [[Publicações/Compassos\|Compassos]]                                                                   | 05 November 2014  | <ul><li>desenho</li><li>poema</li></ul>    |
 | [[Publicações/Mensagem na garrafa\|Mensagem na garrafa]]                                               | 09 June 2012      | <ul><li>poema</li></ul>                    |
-| [[Publicações/Amigos da floresta\|Amigos da floresta]]                                                 | \-                | <ul><li>desenho</li><li>reflexao</li></ul> |
 
 { .block-language-dataview}

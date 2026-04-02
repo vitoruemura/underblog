@@ -18,6 +18,7 @@
 | [[Reflexões/O despertar\|O despertar]]                                                         | 25 December 2022  |
 | [[Publicações/Eu sou o pássaro\|Eu sou o pássaro]]                                             | 17 November 2022  |
 | [[Publicações/Cascas\|Cascas]]                                                                 | 17 November 2022  |
+| [[Publicações/Amigos da floresta\|Amigos da floresta]]                                         | 08 November 2022  |
 | [[Publicações/Janela da árvore\|Janela da árvore]]                                             | 06 November 2022  |
 | [[Publicações/Ek Ong Kar\|Ek Ong Kar]]                                                         | 28 October 2022   |
 | [[Publicações/Intuição\|Intuição]]                                                             | 27 October 2022   |
@@ -94,6 +95,5 @@
 | [[Publicações/Bela flor\|Bela flor]]                                                           | 23 January 2015   |
 | [[Publicações/O cataclisma de outra época\|O cataclisma de outra época]]                       | 06 November 2014  |
 | [[Publicações/Compassos\|Compassos]]                                                           | 05 November 2014  |
-| [[Publicações/Amigos da floresta\|Amigos da floresta]]                                         | \-                |
 
 { .block-language-dataview}
