@@ -30,4 +30,4 @@ Me preocupar com o que quero fazer é deixar de sentir o que quero fazer.
   
 Pode ser que essa coisa toda do objetivo de vida, da carreira, destino, propósito... Talvez isso tudo seja apenas uma ilusão com a qual a mente me tira do momento presente, porque ao me preocupar com isso, ao pensar sobre isso, já não estou mais em mim mesmo, já não estou mais sentindo o que está se passando, já estou desligado de minhas sensações. Ao focar nessas questões deixo de sentir o caminho que a vida coloca em minha frente, pois fico cego para ele. Se penso que tenho que encontrar um propósito, é porque não estou vivendo o propósito e acredito que deva haver um propósito. Se simplesmente vivo, e acredito que seja esse o propósito (simplesmente viver), não há o que procurar e nem o que ser encontrado.  
 
-Deixo o [[Poemas/Chave\|link]] para um poema que escrevi faz um tempo e que exprime um pouco das ideias aqui presentes.
+Deixo o [[Publicações/Chave\|link]] para um poema que escrevi faz um tempo e que exprime um pouco das ideias aqui presentes.
