@@ -18,7 +18,4 @@ Corro ao meu encontro
 
 Em busca de meu significado
 
-
-
-> [!hot] VIDEO
-> <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/mQXF7123Pl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/mQXF7123Pl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
