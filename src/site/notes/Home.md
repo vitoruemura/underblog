@@ -24,6 +24,7 @@ Por enquanto o que tenho para mostrar é isso :D
 > - vitoruemura@gmail.com
 > - [+55 11 997893658](https://wa.me/5511997893658)
 
+---
 
 # Todas as publicações
 | Publicações                                                                                               | Data              | Tags                                       |
