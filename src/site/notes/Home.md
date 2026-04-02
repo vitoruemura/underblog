@@ -58,7 +58,7 @@ Por enquanto o que tenho para mostrar é isso :D
 | [[Publicações/Só ser\|Só ser]]                                                                         | 30 May 2024       | <ul><li>poema</li></ul>                    |
 | [[Publicações/Movimento intercalado dos pés\|Movimento intercalado dos pés]]                           | 14 April 2024     | <ul><li>poema</li><li>reflexao</li></ul>   |
 | [[Publicações/Fingir quem sou\|Fingir quem sou]]                                                       | 29 March 2024     | <ul><li>poema</li></ul>                    |
-| [[Reflexões/448\|448]]                                                                                 | 05 March 2024     | <ul><li>reflexao</li></ul>                 |
+| [[Publicações/448\|448]]                                                                               | 05 March 2024     | <ul><li>reflexao</li></ul>                 |
 | [[Publicações/Livro Repetido\|Livro Repetido]]                                                         | 28 October 2023   | <ul><li>poema</li></ul>                    |
 | [[Publicações/Conhecimento\|Conhecimento]]                                                             | 19 August 2023    | <ul><li>poema</li></ul>                    |
 | [[Publicações/Me habita\|Me habita]]                                                                   | 07 February 2023  | <ul><li>poema</li></ul>                    |
@@ -71,7 +71,7 @@ Por enquanto o que tenho para mostrar é isso :D
 | [[Publicações/Pôr do sol\|Pôr do sol]]                                                                 | 31 January 2023   | <ul><li>poema</li><li>desenho</li></ul>    |
 | [[Publicações/Escrevesenhando\|Escrevesenhando]]                                                       | 27 December 2022  | <ul><li>poema</li><li>desenho</li></ul>    |
 | [[Publicações/Bolso\|Bolso]]                                                                           | 26 December 2022  | <ul><li>poema</li><li>desenho</li></ul>    |
-| [[Reflexões/O despertar\|O despertar]]                                                                 | 25 December 2022  | <ul><li>desenho</li><li>reflexao</li></ul> |
+| [[Publicações/O despertar\|O despertar]]                                                               | 25 December 2022  | <ul><li>desenho</li><li>reflexao</li></ul> |
 | [[Publicações/Eu sou o pássaro\|Eu sou o pássaro]]                                                     | 17 November 2022  | <ul><li>poema</li><li>desenho</li></ul>    |
 | [[Publicações/Cascas\|Cascas]]                                                                         | 17 November 2022  | <ul><li>poema</li><li>desenho</li></ul>    |
 | [[Publicações/Amigos da floresta\|Amigos da floresta]]                                                 | 08 November 2022  | <ul><li>desenho</li><li>reflexao</li></ul> |
@@ -184,15 +184,15 @@ Por enquanto o que tenho para mostrar é isso :D
 | [[Publicações/O que quero fazer\|O que quero fazer]]                                                   | 24 February 2021  | <ul><li>poema</li></ul>                    |
 | [[Publicações/Rima lá em cima\|Rima lá em cima]]                                                       | 23 February 2021  | <ul><li>poema</li></ul>                    |
 | [[Publicações/Couração\|Couração]]                                                                     | 22 February 2021  | <ul><li>poema</li></ul>                    |
-| [[Reflexões/Como nascem os poemas\|Como nascem os poemas]]                                             | 21 February 2021  | <ul><li>poema</li><li>reflexao</li></ul>   |
+| [[Publicações/Como nascem os poemas\|Como nascem os poemas]]                                           | 21 February 2021  | <ul><li>poema</li><li>reflexao</li></ul>   |
 | [[Publicações/Eu não sei\|Eu não sei]]                                                                 | 20 February 2021  | <ul><li>poema</li></ul>                    |
 | [[Publicações/Ando triste\|Ando triste]]                                                               | 19 February 2021  | <ul><li>poema</li></ul>                    |
-| [[Reflexões/Chave e fechadura\|Chave e fechadura]]                                                     | 17 February 2021  | <ul><li>desenho</li><li>reflexao</li></ul> |
+| [[Publicações/Chave e fechadura\|Chave e fechadura]]                                                   | 17 February 2021  | <ul><li>desenho</li><li>reflexao</li></ul> |
 | [[Publicações/Só consegui ser eu mesmo\|Só consegui ser eu mesmo]]                                     | 16 February 2021  | <ul><li>poema</li><li>desenho</li></ul>    |
 | [[Publicações/Abro a porta e a janela\|Abro a porta e a janela]]                                       | 16 February 2021  | <ul><li>poema</li></ul>                    |
 | [[Publicações/Muita arte é preciso\|Muita arte é preciso]]                                             | 15 February 2021  | <ul><li>poema</li></ul>                    |
 | [[Publicações/Desculas ao mar\|Desculas ao mar]]                                                       | 14 February 2021  | <ul><li>poema</li><li>desenho</li></ul>    |
-| [[Reflexões/A arte e o sentir\|A arte e o sentir]]                                                     | 13 February 2021  | <ul><li>reflexao</li></ul>                 |
+| [[Publicações/A arte e o sentir\|A arte e o sentir]]                                                   | 13 February 2021  | <ul><li>reflexao</li></ul>                 |
 | [[Publicações/O manto da noite\|O manto da noite]]                                                     | 13 February 2021  | <ul><li>poema</li></ul>                    |
 | [[Publicações/Contato Íntimo\|Contato Íntimo]]                                                         | 12 February 2021  | <ul><li>poema</li></ul>                    |
 | [[Publicações/O amor mais bonito\|O amor mais bonito]]                                                 | 11 February 2021  | <ul><li>poema</li><li>desenho</li></ul>    |
@@ -206,7 +206,7 @@ Por enquanto o que tenho para mostrar é isso :D
 | [[Publicações/Caminhante\|Caminhante]]                                                                 | 07 November 2020  | <ul><li>poema</li></ul>                    |
 | [[Publicações/Bater de asas\|Bater de asas]]                                                           | 21 July 2020      | <ul><li>poema</li><li>desenho</li></ul>    |
 | [[Publicações/Sente que mudou\|Sente que mudou]]                                                       | 17 July 2020      | <ul><li>poema</li></ul>                    |
-| [[Reflexões/É melhor melhorar\|É melhor melhorar]]                                                     | 27 April 2020     | <ul><li>reflexao</li><li>poema</li></ul>   |
+| [[Publicações/É melhor melhorar\|É melhor melhorar]]                                                   | 27 April 2020     | <ul><li>reflexao</li><li>poema</li></ul>   |
 | [[Publicações/O feitiço da aranha e o tempo\|O feitiço da aranha e o tempo]]                           | 05 April 2020     | <ul><li>desenho</li><li>poema</li></ul>    |
 | [[Publicações/Enchevaziar\|Enchevaziar]]                                                               | 28 March 2020     | <ul><li>poema</li></ul>                    |
 | [[Publicações/Risca seu traço\|Risca seu traço]]                                                       | 21 March 2020     | <ul><li>poema</li><li>desenho</li></ul>    |
